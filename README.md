@@ -1,2 +1,3 @@
-# plugin-wordpress-lugares-cordoba
+# Plugin wordpress lugares cordoba
+
 Muestra lugares de Córdoba
